@@ -1,0 +1,1 @@
+Welcome to the Recipe App repository! This project is a full-featured recipe application that allows users to discover, create, and share recipes. The app is designed to be user-friendly, visually appealing, and highly functional. Whether you're a seasoned chef or just starting in the kitchen, this app aims to make cooking and meal planning easier and more enjoyable
